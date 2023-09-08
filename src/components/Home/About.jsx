@@ -76,7 +76,7 @@ const About = () => {
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
-                      href="https://github.com/19sajib"
+                      href="https://github.com/LaurentShen"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -87,7 +87,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://twitter.com/19sajib"
+                      href="https://twitter.com/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -98,7 +98,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.linkedin.com/in/19sajib/"
+                      href="https://www.linkedin.com/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -109,7 +109,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.instagram.com/19sajib"
+                      href="https://www.instagram.com/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour home-social-icons"
