@@ -20,20 +20,20 @@ const About = () => {
                   LET ME <span className="yellow"> INTRODUCE </span> MYSELF
                 </h1>
                 <p className="home-about-body">
-                 Hi, my name is <span className="yellow">Md Abu Bakkar Siddiqe Sajib </span>
-                 and I'm from <span className="yellow"> Dhaka, Bangladesh.</span>
+                 Hi, my name is <span className="yellow">Laurent Shen </span>
+                 and I'm from <span className="yellow"> Shanghai, China.</span>
                 <br />
                 <br />
-                I recently graduated with a Bachelor's degree in Computer Science and Engineering in 2021.
+                I am currently a new student in Arcadia University.
                 <br />
                 <br />
                   As a
                   <b className="yellow"> Full-Stack </b>developer,  
                   I enjoy tackling new challenges and continuously expanding my skillset.
                   <br />
-                  <br />I am proficient in
+                  <br />I am newly in learning
                     <b className="yellow"> Javascript, </b>
-                    as well as have knowledge in programming languages such as C, Java, Python,
+                    but with some knowledge in programming languages such as Java, Python,
                   <b className="yellow"> GraphQL, and Solidity.</b>
                   <br />
                   <br />
@@ -55,7 +55,7 @@ const About = () => {
                   <i>
                     <b className="yellow"> Web Technologies and Products, </b>
                     as well as exploring areas related to
-                    <b className="yellow"> Artificial Intelligence.</b>
+                    <b className="yellow"> Cyber Security.</b>
                   </i>
                   <br />
                   
