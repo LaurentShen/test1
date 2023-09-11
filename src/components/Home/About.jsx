@@ -109,7 +109,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.instagram.com/"
+                      href="https://www.instagram.com/laurentshen8613/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour home-social-icons"
